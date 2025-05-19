@@ -2,4 +2,4 @@
 
 branches:
 
-Java - contains usefull java code.
+Data_Structures - Containes the base data structures and corresponding useful algorithems.
