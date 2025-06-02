@@ -1,0 +1,14 @@
+FROM gcc:latest
+
+# Create app directory
+WORKDIR /app
+
+# Copy source code and Makefile
+COPY ../src /app/src
+COPY ../Makefile /app/
+
+# Build the game
+RUN make
+
+# Run the game when container starts
+CMD ["./game"]
