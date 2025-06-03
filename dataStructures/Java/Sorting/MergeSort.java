@@ -1,9 +1,9 @@
 // Author: Mason Harsh
-package dataStructures;
+package dataStructures.Java.Sorting;
 
 import java.util.Arrays;
 
-public class Array {
+public class MergeSort {
 
     // Recursive merge sort function that splits the array and merges sorted halves
     public static int[] mergeSort(int[] arr) {
