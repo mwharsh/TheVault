@@ -21,6 +21,7 @@ int main() {
         setup(T);
         placeSeeds(seed, T);
         printGrid(T);
+        growSeeds(T);
 
         std::cout << "Enter Action: ";
         std::cin >> c;

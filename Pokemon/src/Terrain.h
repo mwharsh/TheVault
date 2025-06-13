@@ -9,5 +9,6 @@ public:
 void setup(Terrain *t);
 void printGrid(Terrain *t);
 void placeSeeds(int Seed, Terrain *T);
+void growSeeds(Terrain *t);
 
 #endif
