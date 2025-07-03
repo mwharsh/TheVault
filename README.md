@@ -1,14 +1,5 @@
 # myStuff
 
-Hello, welcome to TheVault, my personal repository. The Vault contains useful algorithems I have made, in many varying languages and any cool projects I work on.
+This is the api project
 
-The index file containe
-
-Below you will find a list of branches and what type of content they have.
-
-
-branches:
-
-Data_Structures - Containes the base data structures and corresponding useful algorithems.
-
-Pokemon - Contains the text based pokemon game i am working on
+The goal of this is to make a reference for me to return to when working with api's. The goal is to write the basic backend crud calls for all the languages i know and want to learn.
